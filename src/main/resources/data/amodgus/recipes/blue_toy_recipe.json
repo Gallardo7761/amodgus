@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#OO",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blue_concrete"
+    },
+    "O": {
+      "item": "minecraft:light_blue_stained_glass_pane"
+    }
+  },
+  "result": {
+    "item": "amodgus:blue_toy"
+  }
+}

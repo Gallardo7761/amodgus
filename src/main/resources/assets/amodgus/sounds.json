@@ -1,0 +1,18 @@
+{
+	"amongus_drip": { 
+		"sounds": [ 
+			{ 
+				"name": "amodgus:amongus_drip",
+				"stream": true
+			}
+		]
+	},
+	"amongus_death": { 
+		"sounds": [ 
+			{ 
+				"name": "amodgus:amongus_death",
+				"stream": true
+			}
+		]
+	}
+}

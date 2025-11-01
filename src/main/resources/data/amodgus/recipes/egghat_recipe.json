@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "OOO",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:orange_wool"
+    },
+    "O": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "amodgus:egghat"
+  }
+}

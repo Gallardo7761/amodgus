@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "amodgus:red_toy"
+    },
+    "title": "§dA suspicious guy",
+    "description": "§eTame an Amongus",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+          "type": "amodgus:amongus"
+        }
+      }
+    }
+  }
+}

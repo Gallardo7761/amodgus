@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  W",
+    " G ",
+    "B  "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:water_bucket"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    },
+    "W": {
+      "item": "minecraft:oak_button"
+    }
+  },
+  "result": {
+    "item": "amodgus:flask"
+  }
+}
